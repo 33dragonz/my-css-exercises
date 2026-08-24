@@ -1,0 +1,17 @@
+.even {
+    color: black;
+}
+.odd {
+    background-color: pink;
+    font-family: Verdana, DejaVu, sans-serif;
+}
+#row2 {
+    color: blue; font-size: 36px;
+}
+#row3{ 
+    font-size: 24px;
+
+}
+#row4 {
+    background-color: green;font-weight: bold;
+}
